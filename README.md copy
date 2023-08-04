@@ -1,2 +1,12 @@
 # DET1 Game Development 
  Final Project
+README
+Welcome to “The Race”! The main objective of this game is to get to complete 2 full laps while trying to get through each checkpoint. You'll need to be quick in order to beat your record!
+To get the game started you will need to press the play button in the start menu
+Key facts about The race:
+- You'll be driving a car through a custom map.
+- You'll need to pass through each checkpoint.
+- Your health bar drops every time you drive into the sides of the track.
+-there is also a game over screen when u lose taking to much damage.
+-there is a win screen for when you complete the objective of completing 2 laps without taking much damage.
+I hope this README has been helpful! If you have any questions or feedback, feel free to reach out.
